@@ -1,0 +1,40 @@
+_repo: Myths-of-northern-lands-b-Narrated-with-special-reference-to-literature-and-art_73021
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guerber, H. A. (Hélène Adeline)
+    aliases:
+    - Guerber, Helene Adeline
+    - Guerber, Hélène Adeline
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '5313'
+    url: http://www.gutenberg.org/2009/agents/5313
+    wikipedia: https://en.wikipedia.org/wiki/H._A._Guerber
+description: ''
+gutenberg_issued: '2024-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73021'
+  lccn: '04004207'
+language: en
+pgterms:marc905: 20160426084908guerber
+pgterms:marc906: '1895'
+pgterms:marc907: us
+production_note: David Edwards and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bAmerican Book Company, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Germanic'
+- !lcsh 'Mythology, Norse'
+- !lcsh 'Legends -- Germany'
+- !lcsh 'Legends -- Scandinavia'
+- !lcsh 'Germanic peoples -- Folklore'
+- !lcc 'BL'
+- GITenberg
+title: 'Myths of northern lands : $b Narrated with special reference to literature
+  and art'
+url: http://www.gutenberg.org/ebooks/73021
